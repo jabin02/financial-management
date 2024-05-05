@@ -5,7 +5,7 @@ Project deals about Expense meter, Stock Investment and Airbnb Investment
 ## Overview
 The Expense Meter project is designed to automate the processing of credit card statements, making it easier to analyze and visualize expenditure patterns. This solution extracts data from unstructured credit card statement PDFs, cleans and categorizes the transactions, and finally, visualizes the data using a Tableau dashboard that connects to AWS Athena where the cleaned data is stored.
 
-![flowchart Image]([https://example.com/path/to/image.png](https://drive.google.com/file/d/1I9EdtZEeMvDYmln6Q3gfvVLwgzqMc7-2/view?usp=sharing))
+![flowchart Image](https://drive.google.com/file/d/1I9EdtZEeMvDYmln6Q3gfvVLwgzqMc7-2/view?usp=sharing)
 
 
 ## Process Flow
